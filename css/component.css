@@ -46,13 +46,6 @@
 		cursor: pointer;
 }
 
-.no-touch .gn-menu-main a:hover,
-.no-touch .gn-menu li.gn-search-item:hover,
-.no-touch .gn-menu li.gn-search-item:hover a {
-		background: white;
-		color: black;
-}
-
 .gn-menu-main > li {
 		display: block;
 		float: left;
@@ -220,7 +213,7 @@ input.gn-search:focus {
 }
 
 .no-touch .gn-menu li.gn-search-item:hover input.gn-search {
-		color: black
+		color: white
 }
 
 /* placeholder */
